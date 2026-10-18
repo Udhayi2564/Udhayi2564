@@ -16,7 +16,7 @@
 
 # 👋 Hi, I'm Udhaya Kumar K G
 
-### Software Engineering • AI & Data Science • Backend Development • Quality Engineering
+### Software Engineering • AI & Data Science • Backend Development • Data Engineering
 
 I'm a **B.Tech Artificial Intelligence and Data Science student at KPR Institute of Engineering and Technology**, passionate about building reliable software systems and AI-powered applications.
 
@@ -41,6 +41,12 @@ My goal is to combine **software engineering practices with AI** to build practi
 ---
 
 # 🏢 Professional Experience
+### Data Engineer Intern
+**Lingaasys Technology Pvt. Ltd**
+`Sep 2026 – Oct 2026`
+* Work on ETL and data migration workflows using Apache SeaTunnel, Spark, Hadoop, SQL, Python, and YAML.
+* Handle database migration pipelines between Oracle and PostgreSQL, including data movement and transformation.
+* Use SQL and Python for data processing, validation, troubleshooting, and pipeline management.
 
 ### 🔹 Software & AI Engineering Research Intern
 
