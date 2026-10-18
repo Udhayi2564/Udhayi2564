@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&background=0F172A&center=true&vCenter=true&width=1000&height=100&lines=UDHAYA+KUMAR+K+G;Data +Software+Engineering+%7C+AI+%26+Data+Science;Backend+Development+%7C+Embedded+Engineering;Machine+Deep+Learning+%7C+NLP+%7C+LLM+Applications" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&background=0F172A&center=true&vCenter=true&width=1000&height=100&lines=UDHAYA+KUMAR+K+G;Data +Software+Engineering+%7C+AI+%26+Data+Science;Backend+Development+%7C+Embedded+Engineering;Machine+Deep Learning+%7C+NLP+%7C+LLM+Applications" alt="Typing Animation"/>
 </p>
 
 <p align="center">
