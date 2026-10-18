@@ -1,13 +1,11 @@
 <!-- ========================================================= -->
-
 <!--                  PREMIUM PROFILE HEADER                   -->
-
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&background=0F172A&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=110&lines=UDHAYA+KUMAR+K+G;Data+Engineering+%7C+AI Software+Engineering;Backend+Development+%7C+%26+Data+Science;Machine+Learning+%7C+Deep+Learning;NLP+%7C+LLM+Applications;Building+Reliable+Data+Pipelines"
-    alt="Typing SVG - Udhaya Kumar K G"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&background=0F172A&center=true&vCenter=true&repeat=true&width=1000&height=110&lines=UDHAYA+KUMAR+K+G;AI+Engineer;Data+Engineer;Artificial+Intelligence+%26+Data+Engineering;Building+Intelligent+Systems+%26+Data+Pipelines"
+    alt="Typing Animation - Udhaya Kumar K G | AI Engineer | Data Engineer"
   />
 </p>
 
@@ -17,8 +15,6 @@
     alt="Profile Views"
   />
 </p>
-
-
 ---
 
 # 👋 Hi, I'm Udhaya Kumar K G
